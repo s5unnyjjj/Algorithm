@@ -49,6 +49,6 @@ def solution(picks, minerals):
                 dfs(picks, minerals[5:], cur_total)
                 picks[i] += 1
             else:
-                answer.append(total + cur_total)
+                answer.append(cur_total)
 
     return min(answer)
