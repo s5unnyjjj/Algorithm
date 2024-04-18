@@ -22,3 +22,4 @@
 6. [006_Lv2_석유시추](https://github.com/s5unnyjjj/Algorithm/blob/master/02_Programmers/006_Lv2_%EC%84%9D%EC%9C%A0%EC%8B%9C%EC%B6%94.py)
 7. [007_Lv2_연속된부분수열의합](https://github.com/s5unnyjjj/Algorithm/blob/master/02_Programmers/007_Lv2_%EC%97%B0%EC%86%8D%EB%90%9C%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4%EC%9D%98%ED%95%A9.py)
 8. [008_Lv2_광물캐기](https://github.com/s5unnyjjj/Algorithm/blob/master/02_Programmers/008_Lv2_%EA%B4%91%EB%AC%BC%EC%BA%90%EA%B8%B0.py)
+9. [009_Lv2_리코쳇로봇](https://github.com/s5unnyjjj/Algorithm/blob/master/02_Programmers/009_Lv2_%EB%A6%AC%EC%BD%94%EC%B3%87%EB%A1%9C%EB%B4%87.py)
