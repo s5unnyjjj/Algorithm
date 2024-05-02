@@ -26,3 +26,4 @@
 10. [010_Lv1_추억점수](https://github.com/s5unnyjjj/Algorithm/blob/master/02_Programmers/010_Lv1_%EC%B6%94%EC%96%B5%EC%A0%90%EC%88%98.py)
 11. [011_Lv2_혼자서하는틱택토](https://github.com/s5unnyjjj/Algorithm/blob/master/02_Programmers/011_Lv2_%ED%98%BC%EC%9E%90%EC%84%9C%ED%95%98%EB%8A%94%ED%8B%B1%ED%83%9D%ED%86%A0.py)
 12. [012_Lv1_가장많이받은선물](https://github.com/s5unnyjjj/Algorithm/blob/master/02_Programmers/012_Lv1_%EA%B0%80%EC%9E%A5%EB%A7%8E%EC%9D%B4%EB%B0%9B%EC%9D%80%EC%84%A0%EB%AC%BC.py)
+13. [013_Lv2_이모티콘할인행사](https://github.com/s5unnyjjj/Algorithm/blob/master/02_Programmers/013_Lv2_%EC%9D%B4%EB%AA%A8%ED%8B%B0%EC%BD%98%ED%95%A0%EC%9D%B8%ED%96%89%EC%82%AC.py)
