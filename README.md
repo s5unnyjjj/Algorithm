@@ -32,3 +32,4 @@
 16. [016_Lv1_공원산책](https://github.com/s5unnyjjj/Algorithm/blob/master/02_Programmers/016_Lv1_%EA%B3%B5%EC%9B%90%EC%82%B0%EC%B1%85.py)
 17. [017_Lv1_데이터분석](https://github.com/s5unnyjjj/Algorithm/blob/master/02_Programmers/017_Lv1_%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D.py)
 18. [018_Lv1_달리기경주](https://github.com/s5unnyjjj/Algorithm/blob/master/02_Programmers/018_Lv1_%EB%8B%AC%EB%A6%AC%EA%B8%B0%EA%B2%BD%EC%A3%BC.py)
+19. [019_Lv2_혼자놀기의달인](https://github.com/s5unnyjjj/Algorithm/blob/master/02_Programmers/019_Lv2_%ED%98%BC%EC%9E%90%EB%86%80%EA%B8%B0%EC%9D%98%EB%8B%AC%EC%9D%B8.py)
