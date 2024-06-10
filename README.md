@@ -12,6 +12,7 @@
 7. [007_2775_부녀회장이될테야](https://github.com/s5unnyjjj/Algorithm/blob/master/01_Baekjoon/007_2775_%EB%B6%80%EB%85%80%ED%9A%8C%EC%9E%A5%EC%9D%B4%EB%90%A0%ED%85%8C%EC%95%BC.py)
 8. [008_7569_토마토](https://github.com/s5unnyjjj/Algorithm/blob/master/01_Baekjoon/008_7569_%ED%86%A0%EB%A7%88%ED%86%A0.py)
 9. [009_7795_먹을것인가먹힐것인가](https://github.com/s5unnyjjj/Algorithm/blob/master/01_Baekjoon/009_7795_%EB%A8%B9%EC%9D%84%EA%B2%83%EC%9D%B8%EA%B0%80%EB%A8%B9%ED%9E%90%EA%B2%83%EC%9D%B8%EA%B0%80.py)
+10. [010_2668_숫자고르기](https://github.com/s5unnyjjj/Algorithm/blob/master/01_Baekjoon/010_2668_%EC%88%AB%EC%9E%90%EA%B3%A0%EB%A5%B4%EA%B8%B0.py)
 
 ## Progrmmers
 1. [001_Lv2_도넛과막대그래프](https://github.com/s5unnyjjj/Algorithm/blob/master/02_Programmers/001_Lv2_%EB%8F%84%EB%84%9B%EA%B3%BC%EB%A7%89%EB%8C%80%EA%B7%B8%EB%9E%98%ED%94%84.py)
