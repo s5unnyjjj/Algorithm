@@ -1,5 +1,5 @@
 
-# 문제 링크: https://school.programmers.co.kr/learn/courses/30/lessons/131704#
+# 문제 링크: https://school.programmers.co.kr/learn/courses/30/lessons/131704
 # 코드 설명: # 코드 설명: https://s5unnyjjj.tistory.com/98
 
 """
