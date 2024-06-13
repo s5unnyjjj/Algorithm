@@ -13,6 +13,7 @@
 8. [008_7569_토마토](https://github.com/s5unnyjjj/Algorithm/blob/master/01_Baekjoon/008_7569_%ED%86%A0%EB%A7%88%ED%86%A0.py)
 9. [009_7795_먹을것인가먹힐것인가](https://github.com/s5unnyjjj/Algorithm/blob/master/01_Baekjoon/009_7795_%EB%A8%B9%EC%9D%84%EA%B2%83%EC%9D%B8%EA%B0%80%EB%A8%B9%ED%9E%90%EA%B2%83%EC%9D%B8%EA%B0%80.py)
 10. [010_2668_숫자고르기](https://github.com/s5unnyjjj/Algorithm/blob/master/01_Baekjoon/010_2668_%EC%88%AB%EC%9E%90%EA%B3%A0%EB%A5%B4%EA%B8%B0.py)
+11. [011_1309_동물원](https://github.com/s5unnyjjj/Algorithm/blob/master/01_Baekjoon/011_1309_%EB%8F%99%EB%AC%BC%EC%9B%90.py)
 
 ## Progrmmers
 1. [001_Lv2_도넛과막대그래프](https://github.com/s5unnyjjj/Algorithm/blob/master/02_Programmers/001_Lv2_%EB%8F%84%EB%84%9B%EA%B3%BC%EB%A7%89%EB%8C%80%EA%B7%B8%EB%9E%98%ED%94%84.py)
@@ -38,6 +39,7 @@
 21. [021_Lv1_바탕화면정리](https://github.com/s5unnyjjj/Algorithm/blob/master/02_Programmers/021_Lv1_%EB%B0%94%ED%83%95%ED%99%94%EB%A9%B4%EC%A0%95%EB%A6%AC.py)
 22. [022_Lv2_테이블해시함수](https://github.com/s5unnyjjj/Algorithm/blob/master/02_Programmers/022_Lv2_%ED%85%8C%EC%9D%B4%EB%B8%94%ED%95%B4%EC%8B%9C%ED%95%A8%EC%88%98.py)
 23. [023_Lv1_푸드파이트대회](https://github.com/s5unnyjjj/Algorithm/blob/master/02_Programmers/023_Lv1_%ED%91%B8%EB%93%9C%ED%8C%8C%EC%9D%B4%ED%8A%B8%EB%8C%80%ED%9A%8C.py)
+24. [024_Lv2_귤고르기](https://github.com/s5unnyjjj/Algorithm/blob/master/02_Programmers/024_Lv2_%EA%B7%A4%EA%B3%A0%EB%A5%B4%EA%B8%B0.py)
 
 ## LeetCode
 1. [001_234_PalindromeLinkedList](https://github.com/s5unnyjjj/Algorithm/blob/master/03_LeetCode/001_234_PalindromeLinkedList.py)
