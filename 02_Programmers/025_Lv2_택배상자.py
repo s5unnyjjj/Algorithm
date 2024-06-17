@@ -1,6 +1,6 @@
 
 # 문제 링크: https://school.programmers.co.kr/learn/courses/30/lessons/131704
-# 코드 설명: # 코드 설명: https://s5unnyjjj.tistory.com/98
+# 코드 설명: https://s5unnyjjj.tistory.com/113
 
 """
 첫번째 시도 -> 실패(일부 시간 초과)
