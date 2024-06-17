@@ -40,6 +40,7 @@
 22. [022_Lv2_테이블해시함수](https://github.com/s5unnyjjj/Algorithm/blob/master/02_Programmers/022_Lv2_%ED%85%8C%EC%9D%B4%EB%B8%94%ED%95%B4%EC%8B%9C%ED%95%A8%EC%88%98.py)
 23. [023_Lv1_푸드파이트대회](https://github.com/s5unnyjjj/Algorithm/blob/master/02_Programmers/023_Lv1_%ED%91%B8%EB%93%9C%ED%8C%8C%EC%9D%B4%ED%8A%B8%EB%8C%80%ED%9A%8C.py)
 24. [024_Lv2_귤고르기](https://github.com/s5unnyjjj/Algorithm/blob/master/02_Programmers/024_Lv2_%EA%B7%A4%EA%B3%A0%EB%A5%B4%EA%B8%B0.py)
+25. [025_Lv2_택배상자](https://github.com/s5unnyjjj/Algorithm/blob/master/02_Programmers/025_Lv2_%ED%83%9D%EB%B0%B0%EC%83%81%EC%9E%90.py)
 
 ## LeetCode
 1. [001_234_PalindromeLinkedList](https://github.com/s5unnyjjj/Algorithm/blob/master/03_LeetCode/001_234_PalindromeLinkedList.py)
