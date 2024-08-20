@@ -43,6 +43,7 @@
 25. [025_Lv2_택배상자](https://github.com/s5unnyjjj/Algorithm/blob/master/02_Programmers/025_Lv2_%ED%83%9D%EB%B0%B0%EC%83%81%EC%9E%90.py)
 26. [026_Lv2_숫자카드나누기](https://github.com/s5unnyjjj/Algorithm/blob/master/02_Programmers/026_Lv2_%EC%88%AB%EC%9E%90%EC%B9%B4%EB%93%9C%EB%82%98%EB%88%84%EA%B8%B0.py)
 27. [027_Lv2_연속부분수열합의개수](https://github.com/s5unnyjjj/Algorithm/blob/master/02_Programmers/027_Lv2_%EC%97%B0%EC%86%8D%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4%ED%95%A9%EC%9D%98%EA%B0%9C%EC%88%98.py)
+28. [028_Lv1_이웃한칸](https://github.com/s5unnyjjj/Algorithm/blob/master/02_Programmers/028_Lv1_%EC%9D%B4%EC%9B%83%ED%95%9C%EC%B9%B8.py)
 
 ## LeetCode
 1. [001_234_PalindromeLinkedList](https://github.com/s5unnyjjj/Algorithm/blob/master/03_LeetCode/001_234_PalindromeLinkedList.py)
