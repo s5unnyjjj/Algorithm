@@ -1,5 +1,5 @@
 # Algorithm with Python<br>
-풀었던 문제 풀이 코드를 공유하는 공간.<br>
+풀었던 문제 풀이 코드를 공유하는 공간입니다.<br>
 <br>
 
 ## Baekjoon
