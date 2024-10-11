@@ -45,6 +45,9 @@
 27. [027_Lv2_연속부분수열합의개수](https://github.com/s5unnyjjj/Algorithm/blob/master/02_Programmers/027_Lv2_%EC%97%B0%EC%86%8D%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4%ED%95%A9%EC%9D%98%EA%B0%9C%EC%88%98.py)
 28. [028_Lv1_이웃한칸](https://github.com/s5unnyjjj/Algorithm/blob/master/02_Programmers/028_Lv1_%EC%9D%B4%EC%9B%83%ED%95%9C%EC%B9%B8.py)
 29. [029_Lv1_동영상재생기](https://github.com/s5unnyjjj/Algorithm/blob/master/02_Programmers/029_Lv1_%EB%8F%99%EC%98%81%EC%83%81%EC%9E%AC%EC%83%9D%EA%B8%B0.py)
+30. [030_Lv2_퍼즐게임챌린지](https://github.com/s5unnyjjj/Algorithm/blob/master/02_Programmers/030_Lv2_%ED%8D%BC%EC%A6%90%EA%B2%8C%EC%9E%84%EC%B1%8C%EB%A6%B0%EC%A7%80.py)
+31. [031_Lv1_지폐접기](https://github.com/s5unnyjjj/Algorithm/blob/master/02_Programmers/031_Lv1_%EC%A7%80%ED%8F%90%EC%A0%91%EA%B8%B0.py)
+32. [032_Lv1_성격유형검사하기](https://github.com/s5unnyjjj/Algorithm/blob/master/02_Programmers/032_%2CLv1_%EC%84%B1%EA%B2%A9%EC%9C%A0%ED%98%95%EA%B2%80%EC%82%AC%ED%95%98%EA%B8%B0.py)
 
 ## LeetCode
 1. [001_234_PalindromeLinkedList](https://github.com/s5unnyjjj/Algorithm/blob/master/03_LeetCode/001_234_PalindromeLinkedList.py)
