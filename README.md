@@ -17,7 +17,7 @@
 10. [010_2668_숫자고르기](https://github.com/s5unnyjjj/Algorithm/blob/master/01_Baekjoon/010_2668_%EC%88%AB%EC%9E%90%EA%B3%A0%EB%A5%B4%EA%B8%B0.py)
 11. [011_1309_동물원](https://github.com/s5unnyjjj/Algorithm/blob/master/01_Baekjoon/011_1309_%EB%8F%99%EB%AC%BC%EC%9B%90.py)
 12. [012_2665_미로만들기](https://github.com/s5unnyjjj/Algorithm/blob/master/01_Baekjoon/012_2665_%EB%AF%B8%EB%A1%9C%EB%A7%8C%EB%93%A4%EA%B8%B0.py)
-13. [013_2805_나무자르기(https://github.com/s5unnyjjj/Algorithm/blob/master/01_Baekjoon/013_2805_%EB%82%98%EB%AC%B4%EC%9E%90%EB%A5%B4%EA%B8%B0.py)
+13. [013_2805_나무자르기](https://github.com/s5unnyjjj/Algorithm/blob/master/01_Baekjoon/013_2805_%EB%82%98%EB%AC%B4%EC%9E%90%EB%A5%B4%EA%B8%B0.py)
 
 ## Progrmmers
 1. [001_Lv2_도넛과막대그래프](https://github.com/s5unnyjjj/Algorithm/blob/master/02_Programmers/001_Lv2_%EB%8F%84%EB%84%9B%EA%B3%BC%EB%A7%89%EB%8C%80%EA%B7%B8%EB%9E%98%ED%94%84.py)
