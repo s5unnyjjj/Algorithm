@@ -1,7 +1,7 @@
 # Algorithm with Python<br>
 
 풀었던 문제 풀이 코드를 공유하는 공간입니다!<br>
-꾸준하고 성실한 노력이 쌓여 코딩과 알고리즘 실력의 성장을 기대하며😌
+꾸준하고 성실한 노력이 쌓여 실력의 성장을 기대하며😌
 <br>
 
 ## Baekjoon
@@ -56,3 +56,5 @@
 2. [002_012_MergeTwoSortedLists](https://github.com/s5unnyjjj/Algorithm/blob/master/03_LeetCode/002_012_MergeTwoSortedLists.py)
 3. [003_206_ReverseLinkedList](https://github.com/s5unnyjjj/Algorithm/blob/master/03_LeetCode/003_206_ReverseLinkedList.py)
 4. [004_002_AddTwoNumbers](https://github.com/s5unnyjjj/Algorithm/blob/master/03_LeetCode/004_002_AddTwoNumbers.py)
+5. [005_020_ValidParentheses](https://github.com/s5unnyjjj/Algorithm/blob/master/03_LeetCode/005_020_ValidParentheses.py)
+
