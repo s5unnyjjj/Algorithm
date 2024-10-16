@@ -62,4 +62,6 @@
 3. [003_206_ReverseLinkedList](https://github.com/s5unnyjjj/Algorithm/blob/master/03_LeetCode/003_206_ReverseLinkedList.py)
 4. [004_002_AddTwoNumbers](https://github.com/s5unnyjjj/Algorithm/blob/master/03_LeetCode/004_002_AddTwoNumbers.py)
 5. [005_020_ValidParentheses](https://github.com/s5unnyjjj/Algorithm/blob/master/03_LeetCode/005_020_ValidParentheses.py)
+6. [006_316_RemoveDuplicateLetter](https://github.com/s5unnyjjj/Algorithm/blob/master/03_LeetCode/006_316_RemoveDuplicateLetters.py)
+7. [007_739_DailyTemperatures](https://github.com/s5unnyjjj/Algorithm/blob/master/03_LeetCode/007_739_DailyTemperatures.py)
 
