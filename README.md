@@ -1,6 +1,6 @@
 # Algorithm with Python<br>
 
-풀었던 문제 풀이 코드를 공유하는 공간입니다!<br>
+주기적으로 알고리즘 문제를 풀고 코드를 공유하는 공간입니다!<br>
 꾸준하고 성실한 노력이 쌓여 실력의 성장을 기대하며😌
 <br>
 
@@ -67,4 +67,5 @@
 7. [007_739_DailyTemperatures](https://github.com/s5unnyjjj/Algorithm/blob/master/03_LeetCode/007_739_DailyTemperatures.py)
 8. [008_200_NumberOfIslands](https://github.com/s5unnyjjj/Algorithm/blob/master/03_LeetCode/008_200_NumberOfIslands.py)
 9. [009_017_LetterCombinationsOfaPhoneNumber](https://github.com/s5unnyjjj/Algorithm/blob/master/03_LeetCode/009_017_LetterCombinationsOfaPhoneNumber.py)
+10. [010_046_Permute](https://github.com/s5unnyjjj/Algorithm/blob/master/03_LeetCode/010_046_Permute.py)
 
