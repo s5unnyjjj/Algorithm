@@ -56,6 +56,7 @@
 30. [030_Lv2_퍼즐게임챌린지](https://github.com/s5unnyjjj/Algorithm/blob/master/02_Programmers/030_Lv2_%ED%8D%BC%EC%A6%90%EA%B2%8C%EC%9E%84%EC%B1%8C%EB%A6%B0%EC%A7%80.py)
 31. [031_Lv1_지폐접기](https://github.com/s5unnyjjj/Algorithm/blob/master/02_Programmers/031_Lv1_%EC%A7%80%ED%8F%90%EC%A0%91%EA%B8%B0.py)
 32. [032_Lv1_성격유형검사하기](https://github.com/s5unnyjjj/Algorithm/blob/master/02_Programmers/032_%2CLv1_%EC%84%B1%EA%B2%A9%EC%9C%A0%ED%98%95%EA%B2%80%EC%82%AC%ED%95%98%EA%B8%B0.py)
+33. [033_Lv2_타겟넘버](https://github.com/s5unnyjjj/Algorithm/blob/master/02_Programmers/033_Lv2_%ED%83%80%EA%B2%9F%EB%84%98%EB%B2%84.py)
 
 ## LeetCode
 1. [001_234_PalindromeLinkedList](https://github.com/s5unnyjjj/Algorithm/blob/master/03_LeetCode/001_234_PalindromeLinkedList.py)
