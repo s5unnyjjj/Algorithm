@@ -63,6 +63,9 @@
 36. [036_Lv3_단어변환](https://github.com/s5unnyjjj/Algorithm/blob/master/02_Programmers/036_Lv3_%EB%8B%A8%EC%96%B4%EB%B3%80%ED%99%98.py)
 37. [037_Lv2_비밀코드해독](https://github.com/s5unnyjjj/Algorithm/blob/master/02_Programmers/037_Lv2_%EB%B9%84%EB%B0%80%EC%BD%94%EB%93%9C%ED%95%B4%EB%8F%85.py)
 38. [038_Lv1_택배상자꺼내기](https://github.com/s5unnyjjj/Algorithm/blob/master/02_Programmers/038_Lv1_%ED%83%9D%EB%B0%B0%EC%83%81%EC%9E%90%EA%BA%BC%EB%82%B4%EA%B8%B0.py)
+39. [039_Lv1_유연근무제](https://github.com/s5unnyjjj/Algorithm/blob/master/02_Programmers/039_Lv1_%EC%9C%A0%EC%97%B0%EA%B7%BC%EB%AC%B4%EC%A0%9C.py)
+40. [040_Lv3_여행경로](https://github.com/s5unnyjjj/Algorithm/blob/master/02_Programmers/040_Lv3_%EC%97%AC%ED%96%89%EA%B2%BD%EB%A1%9C.py)
+41. [041_Lv2_완전범죄](https://github.com/s5unnyjjj/Algorithm/blob/master/02_Programmers/041_Lv2_%EC%99%84%EC%A0%84%EB%B2%94%EC%A3%84.py)
 
 ## LeetCode
 1. [001_234_PalindromeLinkedList](https://github.com/s5unnyjjj/Algorithm/blob/master/03_LeetCode/001_234_PalindromeLinkedList.py)
