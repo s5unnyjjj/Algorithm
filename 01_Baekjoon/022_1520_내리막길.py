@@ -3,6 +3,7 @@
 
 import sys
 sys.setrecursionlimit(10000)
+
 input = sys.stdin.readline
 M, N = map(int, input().split())
 maps = []
