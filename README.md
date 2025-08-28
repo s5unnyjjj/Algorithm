@@ -23,6 +23,10 @@
 16. [016_1371_가장많은글자](https://github.com/s5unnyjjj/Algorithm/blob/master/01_Baekjoon/016_1371_%EA%B0%80%EC%9E%A5%EB%A7%8E%EC%9D%80%EA%B8%80%EC%9E%90.py)
 17. [017_10451_순열사이클](https://github.com/s5unnyjjj/Algorithm/blob/master/01_Baekjoon/017_10451_%EC%88%9C%EC%97%B4%EC%82%AC%EC%9D%B4%ED%81%B4.py)
 18. [018_1743_음식물피하기](https://github.com/s5unnyjjj/Algorithm/blob/master/01_Baekjoon/018_1743_%EC%9D%8C%EC%8B%9D%EB%AC%BC%ED%94%BC%ED%95%98%EA%B8%B0.py)
+19. [019_11660_구간합구하기5](https://github.com/s5unnyjjj/Algorithm/blob/master/01_Baekjoon/019_11660_%EA%B5%AC%EA%B0%84%ED%95%A9%EA%B5%AC%ED%95%98%EA%B8%B05.py)
+20. [020_11055_가장큰증가하는부분수열](https://github.com/s5unnyjjj/Algorithm/blob/master/01_Baekjoon/020_11055_%EA%B0%80%EC%9E%A5%ED%81%B0%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4.py)
+21. [021_11722_가장긴감소하는부분수열](https://github.com/s5unnyjjj/Algorithm/blob/master/01_Baekjoon/021_11722_%EA%B0%80%EC%9E%A5%EA%B8%B4%EA%B0%90%EC%86%8C%ED%95%98%EB%8A%94%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4.py)
+22. [022_1520_내리막길](https://github.com/s5unnyjjj/Algorithm/blob/master/01_Baekjoon/022_1520_%EB%82%B4%EB%A6%AC%EB%A7%89%EA%B8%B8.py)
 
 ## Progrmmers
 1. [001_Lv2_도넛과막대그래프](https://github.com/s5unnyjjj/Algorithm/blob/master/02_Programmers/001_Lv2_%EB%8F%84%EB%84%9B%EA%B3%BC%EB%A7%89%EB%8C%80%EA%B7%B8%EB%9E%98%ED%94%84.py)
@@ -66,6 +70,9 @@
 39. [039_Lv1_유연근무제](https://github.com/s5unnyjjj/Algorithm/blob/master/02_Programmers/039_Lv1_%EC%9C%A0%EC%97%B0%EA%B7%BC%EB%AC%B4%EC%A0%9C.py)
 40. [040_Lv3_여행경로](https://github.com/s5unnyjjj/Algorithm/blob/master/02_Programmers/040_Lv3_%EC%97%AC%ED%96%89%EA%B2%BD%EB%A1%9C.py)
 41. [041_Lv2_완전범죄](https://github.com/s5unnyjjj/Algorithm/blob/master/02_Programmers/041_Lv2_%EC%99%84%EC%A0%84%EB%B2%94%EC%A3%84.py)
+42. [042_Lv2_카펫](https://github.com/s5unnyjjj/Algorithm/blob/master/02_Programmers/042_Lv2_%EC%B9%B4%ED%8E%AB.py)
+43. [043_Lv2_피로도](https://github.com/s5unnyjjj/Algorithm/blob/master/02_Programmers/043_Lv2_%ED%94%BC%EB%A1%9C%EB%8F%84.py)
+44. [044_Lv2_전력망을둘로나누기](https://github.com/s5unnyjjj/Algorithm/blob/master/02_Programmers/044_Lv2_%EC%A0%84%EB%A0%A5%EB%A7%9D%EC%9D%84%EB%91%98%EB%A1%9C%EB%82%98%EB%88%84%EA%B8%B0.py)
 
 ## LeetCode
 1. [001_234_PalindromeLinkedList](https://github.com/s5unnyjjj/Algorithm/blob/master/03_LeetCode/001_234_PalindromeLinkedList.py)
