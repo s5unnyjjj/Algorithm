@@ -74,6 +74,7 @@
 43. [043_Lv2_피로도](https://github.com/s5unnyjjj/Algorithm/blob/master/02_Programmers/043_Lv2_%ED%94%BC%EB%A1%9C%EB%8F%84.py)
 44. [044_Lv2_전력망을둘로나누기](https://github.com/s5unnyjjj/Algorithm/blob/master/02_Programmers/044_Lv2_%EC%A0%84%EB%A0%A5%EB%A7%9D%EC%9D%84%EB%91%98%EB%A1%9C%EB%82%98%EB%88%84%EA%B8%B0.py)
 45. [045_Lv2_미로탈출](https://github.com/s5unnyjjj/Algorithm/blob/master/02_Programmers/045_Lv2_%EB%AF%B8%EB%A1%9C%ED%83%88%EC%B6%9C.py)
+46. [046_Lv2_무인도여행](https://github.com/s5unnyjjj/Algorithm/blob/master/02_Programmers/046_Lv2_%EB%AC%B4%EC%9D%B8%EB%8F%84%EC%97%AC%ED%96%89.py)
 
 ## LeetCode
 1. [001_234_PalindromeLinkedList](https://github.com/s5unnyjjj/Algorithm/blob/master/03_LeetCode/001_234_PalindromeLinkedList.py)
