@@ -75,6 +75,10 @@
 44. [044_Lv2_전력망을둘로나누기](https://github.com/s5unnyjjj/Algorithm/blob/master/02_Programmers/044_Lv2_%EC%A0%84%EB%A0%A5%EB%A7%9D%EC%9D%84%EB%91%98%EB%A1%9C%EB%82%98%EB%88%84%EA%B8%B0.py)
 45. [045_Lv2_미로탈출](https://github.com/s5unnyjjj/Algorithm/blob/master/02_Programmers/045_Lv2_%EB%AF%B8%EB%A1%9C%ED%83%88%EC%B6%9C.py)
 46. [046_Lv2_무인도여행](https://github.com/s5unnyjjj/Algorithm/blob/master/02_Programmers/046_Lv2_%EB%AC%B4%EC%9D%B8%EB%8F%84%EC%97%AC%ED%96%89.py)
+47. [047_Lv1_같은숫자는싫어](https://github.com/s5unnyjjj/Algorithm/blob/master/02_Programmers/047_Lv1_%EA%B0%99%EC%9D%80%EC%88%AB%EC%9E%90%EB%8A%94%EC%8B%AB%EC%96%B4.py)
+48. [048_Lv2_기능개발](https://github.com/s5unnyjjj/Algorithm/blob/master/02_Programmers/048_Lv2_%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C.py)
+49. [049_Lv2_올바른괄호](https://github.com/s5unnyjjj/Algorithm/blob/master/02_Programmers/049_Lv2_%EC%98%AC%EB%B0%94%EB%A5%B8%EA%B4%84%ED%98%B8.py)
+50. [050_Lv2_프로세스](https://github.com/s5unnyjjj/Algorithm/blob/master/02_Programmers/050_Lv2_%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4.py)
 
 ## LeetCode
 1. [001_234_PalindromeLinkedList](https://github.com/s5unnyjjj/Algorithm/blob/master/03_LeetCode/001_234_PalindromeLinkedList.py)
