@@ -27,6 +27,8 @@
 20. [020_11055_가장큰증가하는부분수열](https://github.com/s5unnyjjj/Algorithm/blob/master/01_Baekjoon/020_11055_%EA%B0%80%EC%9E%A5%ED%81%B0%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4.py)
 21. [021_11722_가장긴감소하는부분수열](https://github.com/s5unnyjjj/Algorithm/blob/master/01_Baekjoon/021_11722_%EA%B0%80%EC%9E%A5%EA%B8%B4%EA%B0%90%EC%86%8C%ED%95%98%EB%8A%94%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4.py)
 22. [022_1520_내리막길](https://github.com/s5unnyjjj/Algorithm/blob/master/01_Baekjoon/022_1520_%EB%82%B4%EB%A6%AC%EB%A7%89%EA%B8%B8.py)
+23. [023_1924_2007년](https://github.com/s5unnyjjj/Algorithm/blob/master/01_Baekjoon/023_1924_2007%EB%85%84.py)
+24. [024_1475_방번호](https://github.com/s5unnyjjj/Algorithm/blob/master/01_Baekjoon/024_1475_%EB%B0%A9%EB%B2%88%ED%98%B8.py)
 
 ## Progrmmers
 1. [001_Lv2_도넛과막대그래프](https://github.com/s5unnyjjj/Algorithm/blob/master/02_Programmers/001_Lv2_%EB%8F%84%EB%84%9B%EA%B3%BC%EB%A7%89%EB%8C%80%EA%B7%B8%EB%9E%98%ED%94%84.py)
