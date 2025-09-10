@@ -85,6 +85,7 @@
 49. [049_Lv2_올바른괄호](https://github.com/s5unnyjjj/Algorithm/blob/master/02_Programmers/049_Lv2_%EC%98%AC%EB%B0%94%EB%A5%B8%EA%B4%84%ED%98%B8.py)
 50. [050_Lv2_프로세스](https://github.com/s5unnyjjj/Algorithm/blob/master/02_Programmers/050_Lv2_%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4.py)
 51. [051_Lv2_모음사전](https://github.com/s5unnyjjj/Algorithm/blob/master/02_Programmers/051_Lv2_%EB%AA%A8%EC%9D%8C%EC%82%AC%EC%A0%84.py)
+52. [052_Lv3_베스트앨범](https://github.com/s5unnyjjj/Algorithm/blob/master/02_Programmers/052_Lv3_%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94.py)
 
 ## LeetCode
 1. [001_234_PalindromeLinkedList](https://github.com/s5unnyjjj/Algorithm/blob/master/03_LeetCode/001_234_PalindromeLinkedList.py)
