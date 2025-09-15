@@ -32,6 +32,7 @@
 25. [025_1085_직사강형에서탈출](https://github.com/s5unnyjjj/Algorithm/blob/master/01_Baekjoon/025_1085_%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%EC%97%90%EC%84%9C%ED%83%88%EC%B6%9C.py)
 26. [026_2839_설탕배달](https://github.com/s5unnyjjj/Algorithm/blob/master/01_Baekjoon/026_2839_%EC%84%A4%ED%83%95%EB%B0%B0%EB%8B%AC.py)
 27. [027_10845_큐](https://github.com/s5unnyjjj/Algorithm/blob/master/01_Baekjoon/027_10845_%ED%81%90.py)
+28. [028_1268_임시반장정하기](https://github.com/s5unnyjjj/Algorithm/blob/master/01_Baekjoon/028_1268_%EC%9E%84%EC%8B%9C%EB%B0%98%EC%9E%A5%EC%A0%95%ED%95%98%EA%B8%B0.py)
 
 ## Progrmmers
 1. [001_Lv2_도넛과막대그래프](https://github.com/s5unnyjjj/Algorithm/blob/master/02_Programmers/001_Lv2_%EB%8F%84%EB%84%9B%EA%B3%BC%EB%A7%89%EB%8C%80%EA%B7%B8%EB%9E%98%ED%94%84.py)
